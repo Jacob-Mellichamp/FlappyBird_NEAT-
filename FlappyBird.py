@@ -22,7 +22,7 @@ STAT_FONT = pygame.font.SysFont("comisans", 50, bold=False, italic=False)
 #Pipe class
 class Pipe:
     #GAP between pipes and speed of pipe 
-    GAP = 150
+    GAP = 170
     VEL = 5
 
     def __init__(self, x):
